@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://hakim-leon-s-workspace-kvq5ju.eu-west-1.xata.sh/db/next-ai-notes",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}

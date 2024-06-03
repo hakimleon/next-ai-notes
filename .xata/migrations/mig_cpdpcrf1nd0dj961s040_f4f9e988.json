@@ -1,0 +1,16 @@
+{
+  "id": "mig_cpdpcrf1nd0dj961s040",
+  "parentID": "mig_cpdpcnc2s2a8he29rdg0",
+  "checksum": "1:f4f9e988734174dff1f598108979e72b88e613f358645dc0dd1bc40bc71ec34e",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "content",
+          "type": "text"
+        },
+        "table": "Note"
+      }
+    }
+  ]
+}
